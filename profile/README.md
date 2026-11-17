@@ -17,6 +17,7 @@ Esta organização reúne as **vitrines** dos sistemas que desenvolvi: documenta
 | | Projeto | O que resolve |
 |---|---|---|
 | 📈 | **[CRM MFlow](https://github.com/portfolio-mflow/crm-mflow)** | CRM de vendas B2B com motor de precificação, trava de margem, fila de recompra e agente de IA no WhatsApp. |
+| 💬 | **[MFlow Chat](https://github.com/portfolio-mflow/mflow-chat)** | Chat corporativo próprio, com chamadas, reuniões, auditoria e LGPD. Web, desktop e Android. |
 | 📊 | **[Dados de vendas](https://github.com/portfolio-mflow/dados-vendas)** | Plataforma de Fechamento e Dash de Vendas: margem real por canal e SKU, conciliação de marketplaces, ruptura e curva ABC. |
 | 🧪 | **[JARVIS](https://github.com/portfolio-mflow/jarvis)** | P&D: assistente por voz que executa tarefas reais no computador, com roteamento de modelos e autorização verificada no código. |
 | 🎬 | **MFlow Filme** · *em breve* | Fotos e vídeos de produto com IA, sem fotógrafo nem videomaker: cenas, comerciais para marketplaces, Reels, TikTok e posts para o Instagram, com aprovação por etapa e custo previsto. |
